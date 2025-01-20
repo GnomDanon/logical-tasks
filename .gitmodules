@@ -1,0 +1,6 @@
+[submodule "logical-tasks-web"]
+	path = logical-tasks-web
+	url = https://github.com/K0ch3rga/logical-tasks-web
+[submodule "logical-tasks-back"]
+	path = logical-tasks-back
+	url = https://github.com/GnomDanon/logical-tasks-back
