@@ -4,3 +4,6 @@
 [submodule "logical-tasks-back"]
 	path = logical-tasks-back
 	url = https://github.com/GnomDanon/logical-tasks-back
+[submodule "logical-tasks-ml"]
+	path = logical-tasks-ml
+	url = https://github.com/GnomDanon/logical-tasks-ml
